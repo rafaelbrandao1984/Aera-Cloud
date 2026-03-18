@@ -23,4 +23,4 @@ jobs:
           destination: 'www.aeracloud.com.br'
           parent: false
           # Isso garante que arquivos deletados no Git também sumam do Bucket (opcional)
-          # process_gcloudignore: true
+          # process_gcloudignore: true  
